@@ -1,24 +1,24 @@
-Tic Tac Toe Game (React.js)
+#Tic Tac Toe Game (React.js)
 
-A simple and interactive Tic Tac Toe game built with React.js.
+###A simple and interactive Tic Tac Toe game built with React.js.
 Play against a friend in the browser and enjoy the classic X’s and O’s game with a modern UI.
 
-Features
+##Features
 
-Two-player mode (X vs O)
+* Two-player mode (X vs O)
 
-Real-time game board updates
+* Real-time game board updates
 
-Highlights the winner
+* Highlights the winner
 
-Option to reset and start a new game
+* Option to reset and start a new game
 
-Responsive and clean UI
+* Responsive and clean UI
 
-Tech Stack
+##Tech Stack
 
-React.js – Component-based UI
+* React.js – Component-based UI
 
-JavaScript (ES6+) – Game logic
+* JavaScript (ES6+) – Game logic
 
-CSS or Tailwind – Styling and responsiveness
+* CSS or Tailwind – Styling and responsiveness
