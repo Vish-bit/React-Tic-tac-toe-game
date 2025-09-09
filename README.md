@@ -1,4 +1,4 @@
-# Tic Tac Toe Game in React.js  
+ Tic Tac Toe Game in React.js  
 
 ## Overview  
 - Classic Tic Tac Toe game built using React.js  
